@@ -14,3 +14,9 @@ macOS: ~/Library/Preferences/kicad/<version>/colors/
 
 -----
 Then select the theme under Preferences → Preferences → Schematic Editor → Colors.
+
+-----
+Screenshots:
+
+Tokyo Midnight
+<img width="1201" height="825" alt="image" src="https://github.com/user-attachments/assets/6d6b171d-f851-4451-bf9d-235e8fbf9828" />
