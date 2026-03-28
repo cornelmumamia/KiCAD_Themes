@@ -63,7 +63,7 @@ PADS Soft Twilight
 Rose Pine Moon
 <img width="2346" height="1611" alt="image" src="https://github.com/user-attachments/assets/fc55d98b-bcf9-4fb6-ab23-79279b85608c" />
 
-Tokyo Midnight
+Tokyo Night
 <img width="2344" height="1612" alt="image" src="https://github.com/user-attachments/assets/a7215166-a46c-40ea-8c64-087c6c00891a" />
 
 
