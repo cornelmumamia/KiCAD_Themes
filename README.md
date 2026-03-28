@@ -19,4 +19,5 @@ Then select the theme under Preferences → Preferences → Schematic Editor →
 Screenshots:
 
 Tokyo Midnight
-<img width="1201" height="825" alt="image" src="https://github.com/user-attachments/assets/6d6b171d-f851-4451-bf9d-235e8fbf9828" />
+<img width="2345" height="1616" alt="image" src="https://github.com/user-attachments/assets/d4bb392a-e36d-4601-b484-4b22c79904e6" />
+
