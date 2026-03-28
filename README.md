@@ -6,7 +6,9 @@ Includes themes inspired by popular code editor palettes (Nord Arctic, Gruvbox W
 Installation: Copy any .json file into your KiCAD colours directory:
 
 Linux: ~/.config/kicad/<version>/colors/
+
 Windows: %APPDATA%\kicad\<version>\colors\
+
 macOS: ~/Library/Preferences/kicad/<version>/colors/
 
 Then select the theme under Preferences → Preferences → Schematic Editor → Colors.
