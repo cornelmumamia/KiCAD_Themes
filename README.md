@@ -5,7 +5,10 @@ A collection of schematic colour themes for KiCAD, designed for long design sess
 The themes are inspired by popular code editor palettes (Nord Arctic, Gruvbox Warm Dark, Tokyo Night, Rosé Pine Moon, Monokai Vivid), industry EDA tools (Altium, Cadence, Eagle, Fusion, PADS), and original dark themes of my own making — all carefully crafted to ensure every schematic element is clearly visible against its background.
 
 -----
-Installation: Copy any .json file into your KiCAD colours directory:
+Installation:
+----
+
+Copy any .json file into your KiCAD colours directory:
 
 Linux: ~/.config/kicad/<version>/colors/
 
@@ -13,7 +16,6 @@ Windows: %APPDATA%\kicad\<version>\colors\
 
 macOS: ~/Library/Preferences/kicad/<version>/colors/
 
------
 Then select the theme under Preferences → Preferences → Schematic Editor → Colors.
 
 Themes were all tested on KiCAD 9.0.8 and 10.0
