@@ -1,4 +1,5 @@
-# KiCAD Themes
+KiCAD Themes
+----
 
 A collection of schematic colour themes for KiCAD, designed for long design sessions and be easy on the eyes.
 The themes are inspired by popular code editor palettes (Nord Arctic, Gruvbox Warm Dark, Tokyo Night, Rosé Pine Moon, Monokai Vivid), industry EDA tools (Altium, Cadence, Eagle, Fusion, PADS), and original dark themes of my own making — all carefully crafted to ensure every schematic element is clearly visible against its background.
@@ -19,6 +20,7 @@ Themes were all tested on KiCAD 9.0.8 and 10.0
 
 -----
 Screenshots:
+----
 
 Altium Midnight Blue
 <img width="2347" height="1613" alt="image" src="https://github.com/user-attachments/assets/efb6358e-0007-4afb-a156-5e8e2823de03" />
