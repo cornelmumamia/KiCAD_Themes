@@ -16,6 +16,7 @@ macOS: ~/Library/Preferences/kicad/<version>/colors/
 Then select the theme under Preferences → Preferences → Schematic Editor → Colors.
 
 Themes were all tested on KiCAD 9.0.8 and 10.0
+
 -----
 Screenshots:
 
