@@ -254,7 +254,7 @@
   },
   "meta": {
     "filename": "OrCAD_Light",
-    "name": "OrCAD Capture Light",
+    "name": "OrCAD Light",
     "version": 5
   },
   "schematic": {
@@ -274,7 +274,7 @@
     "erc_warning": "rgb(255, 165, 0)",
     "excluded_from_sim": "rgba(100, 100, 100, 0.949)",
     "fields": "rgb(0, 0, 128)",
-    "grid": "rgb(215, 215, 215)",
+    "grid": "rgb(180, 180, 180)",
     "grid_axes": "rgb(180, 180, 180)",
     "hidden": "rgb(180, 180, 180)",
     "hovered": "rgb(0, 0, 255)",
@@ -299,7 +299,7 @@
     "rule_area": "rgb(255, 0, 0)",
     "shadow": "rgba(0, 0, 255, 0.400)",
     "sheet": "rgb(204, 127, 5)",
-    "sheet_background": "rgb(255, 255, 255)",
+    "sheet_background": "rgba(204, 127, 5, 0.302)",
     "sheet_fields": "rgb(0, 0, 128)",
     "sheet_filename": "rgb(0, 0, 0)",
     "sheet_label": "rgb(0, 0, 255)",
