@@ -2,7 +2,7 @@ KiCAD Themes
 ----
 
 A collection of schematic colour themes for KiCAD, designed for long design sessions and be easy on the eyes.
-The themes are inspired by popular code editor palettes (Nord Arctic, Gruvbox Warm Dark, Tokyo Night, Rosé Pine Moon, Monokai Vivid), industry EDA tools (Altium, Cadence, Eagle, Fusion, PADS), and original dark themes of my own making — all carefully crafted to ensure every schematic element is clearly visible against its background.
+The light and dark themes are inspired by popular code editor palettes (Nord Arctic, Gruvbox Warm Dark, Tokyo Night, Rosé Pine Moon, Monokai Vivid), industry EDA tools (Altium, DesignSpark, Eagle, Multisim, OrCAD and PADS), and original designs of my own making — all carefully crafted to ensure every schematic element is clearly visible against its background.
 
 Installation:
 ----
