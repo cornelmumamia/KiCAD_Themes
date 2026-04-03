@@ -68,4 +68,20 @@ Rose Pine Moon
 Tokyo Night
 <img width="2344" height="1612" alt="image" src="https://github.com/user-attachments/assets/a7215166-a46c-40ea-8c64-087c6c00891a" />
 
+Altium Designer Light
+<img width="2385" height="1645" alt="image" src="https://github.com/user-attachments/assets/9fb50aec-5de8-4785-9f66-14e8bdab99d0" />
 
+DesignSpark PCB Light
+<img width="2385" height="1641" alt="image" src="https://github.com/user-attachments/assets/5c488a42-4e0e-49c5-af71-9a2bc5e00af6" />
+
+Eagle Light
+<img width="2384" height="1641" alt="image" src="https://github.com/user-attachments/assets/09846264-780e-40e8-8814-1d4b4b48a3c0" />
+
+NI Multisim Light
+<img width="2387" height="1642" alt="image" src="https://github.com/user-attachments/assets/1f834aea-507b-4f51-b811-dc193370ce53" />
+
+OrCAD Light
+<img width="2386" height="1639" alt="image" src="https://github.com/user-attachments/assets/c6688528-50fd-4eb7-906d-2bb41de9b960" />
+
+PADS Light
+<img width="2386" height="1644" alt="image" src="https://github.com/user-attachments/assets/063707e6-42ec-4f95-8141-66a521013ed1" />
